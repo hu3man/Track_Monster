@@ -1,0 +1,13 @@
+<aura:component controller="PlaylistsController" access="global" >
+    <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+    <aura:attribute name="playlists" type="Playlist__c" />
+    <lightning:card title="Playlists">
+        <p class="slds-p-horizontal--small">
+            <aura:iteration items="{!v.playlists}" var="playlist">
+                <!-- <c:PlaylistLiItem playlist="{!v.playlist}" />   -->
+                <p>{!playlist.name}</p>
+                <p>Num: {!playlist.name}</p>
+            </aura:iteration>
+        </p>
+    </lightning:card>
+</aura:component>

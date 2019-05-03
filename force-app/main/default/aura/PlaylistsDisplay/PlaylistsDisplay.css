@@ -1,0 +1,8 @@
+playlistLiItem.THIS{
+    border-top: 2px solid black;
+    background-color: blueviolet;
+}
+playlistLiItem:hover.THIS{
+    background-color: aqua;
+
+}

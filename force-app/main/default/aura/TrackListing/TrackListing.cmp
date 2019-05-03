@@ -1,0 +1,11 @@
+<aura:component>
+    <aura:attribute type="Track__c[]" name="trackData"/>
+    <aura:attribute type="List" name="columns" />
+    <aura:handler name="init" value="{!this}" action="{!c.tableInit}"/>    
+
+     <lightning:datatable data="{! v.trackData }"
+                         columns="{! v.columns }"
+                         keyField="trackId__c"
+                         hideCheckboxColumn="true"/>
+
+</aura:component>	

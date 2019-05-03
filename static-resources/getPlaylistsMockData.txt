@@ -1,0 +1,840 @@
+{
+    "href": "https://api.spotify.com/v1/users/hu3man/playlists?offset=0&limit=20",
+    "items": [
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5j5ZxEqYZsWdHVaccliIbl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5j5ZxEqYZsWdHVaccliIbl",
+            "id": "5j5ZxEqYZsWdHVaccliIbl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/501df95c297f5751fb5d962dac83c11bc8f1c0a9",
+                    "width": 640
+                }
+            ],
+            "name": "MIXES",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCwyZWQ1YTA1YzNjNTJjYzFlZWVkYTAyMmU2ZjYxNjhlZTE2N2RlNTNk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5j5ZxEqYZsWdHVaccliIbl/tracks",
+                "total": 60
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5j5ZxEqYZsWdHVaccliIbl"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/13NGf9acyXxjBo6K7tm00K"
+            },
+            "href": "https://api.spotify.com/v1/playlists/13NGf9acyXxjBo6K7tm00K",
+            "id": "13NGf9acyXxjBo6K7tm00K",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/39e89a6a7b135218fda05af21979c2bd3f1adeeb",
+                    "width": 640
+                }
+            ],
+            "name": "dnbsexy",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Miw4NDgzNDA2ZDgzYjE4Y2I0ZTQwZjQ0ZDNlODUxYWFkMDQ3YzRjNDY1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/13NGf9acyXxjBo6K7tm00K/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:13NGf9acyXxjBo6K7tm00K"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0WwDVcgeFzucfiZVxygj8r"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0WwDVcgeFzucfiZVxygj8r",
+            "id": "0WwDVcgeFzucfiZVxygj8r",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/39e89a6a7b135218fda05af21979c2bd3f1adeeb7758d45c770e5379ba32228b642e34f3468b49d28c0ebea76132b3038af46ed8c8dc4c6bc7951a52d0af25cb6ace2691fab88bc23e79e02f644d5572",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/39e89a6a7b135218fda05af21979c2bd3f1adeeb7758d45c770e5379ba32228b642e34f3468b49d28c0ebea76132b3038af46ed8c8dc4c6bc7951a52d0af25cb6ace2691fab88bc23e79e02f644d5572",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/39e89a6a7b135218fda05af21979c2bd3f1adeeb7758d45c770e5379ba32228b642e34f3468b49d28c0ebea76132b3038af46ed8c8dc4c6bc7951a52d0af25cb6ace2691fab88bc23e79e02f644d5572",
+                    "width": 60
+                }
+            ],
+            "name": "april",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsNDBlZGVmNjA2ZWMyMzc0NzczMjBlZGY1NWNlNGYyNWJmNDYzY2FlMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0WwDVcgeFzucfiZVxygj8r/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0WwDVcgeFzucfiZVxygj8r"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3UsCX4eytGmtjve8Nse29r"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3UsCX4eytGmtjve8Nse29r",
+            "id": "3UsCX4eytGmtjve8Nse29r",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/e214b669e44da923e318a8c20f2bbd3c39fae1fb",
+                    "width": 640
+                }
+            ],
+            "name": "Ambient",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCxjZTg4OTNiMjU2NGZlN2RkZjUzNGU0YTUxYWRjNDU1OTIxYzE2YWRj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3UsCX4eytGmtjve8Nse29r/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3UsCX4eytGmtjve8Nse29r"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/13mBQc0FY0CBXSdrviU6Zj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/13mBQc0FY0CBXSdrviU6Zj",
+            "id": "13mBQc0FY0CBXSdrviU6Zj",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/d2cfdc1dc032d3b8088aeea63b9116966f7e3424",
+                    "width": 640
+                }
+            ],
+            "name": "Mononoid – THE ALLEYS Stream 001 / Mononoid",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixkZmM4NmMyMmUzNzZjNTBiZWM2OTllNGNhY2JjYWQwYTcxZjlhNGFm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/13mBQc0FY0CBXSdrviU6Zj/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:13mBQc0FY0CBXSdrviU6Zj"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4uFmNe0g9sv33iPg8h6164"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4uFmNe0g9sv33iPg8h6164",
+            "id": "4uFmNe0g9sv33iPg8h6164",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/84c131db2a175d51f2a40a80d1e898ea7752ce8c",
+                    "width": 640
+                }
+            ],
+            "name": "Walls - Joris Voorn Remix – Yotto",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlNTA5M2JiZjdmNWIyN2RmODZmNGMzMzVkOWNmODgxYmQ5ZmU0NmZm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4uFmNe0g9sv33iPg8h6164/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4uFmNe0g9sv33iPg8h6164"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6Z7jyWKlzevISZ1rS3BAQk"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6Z7jyWKlzevISZ1rS3BAQk",
+            "id": "6Z7jyWKlzevISZ1rS3BAQk",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/2289eaddfdbde7ace244a64db211a9105fd165c47d23267b285f84fb8f432620f562f11a23bf1b81a4eda46d0541de0e2799a2df0a986f143d7f8a75eb37d17da06821fcd83db471a1ef7fdb6567d210",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/2289eaddfdbde7ace244a64db211a9105fd165c47d23267b285f84fb8f432620f562f11a23bf1b81a4eda46d0541de0e2799a2df0a986f143d7f8a75eb37d17da06821fcd83db471a1ef7fdb6567d210",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/2289eaddfdbde7ace244a64db211a9105fd165c47d23267b285f84fb8f432620f562f11a23bf1b81a4eda46d0541de0e2799a2df0a986f143d7f8a75eb37d17da06821fcd83db471a1ef7fdb6567d210",
+                    "width": 60
+                }
+            ],
+            "name": "march",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjYsMWQwZDI3YmI2MDAwNWQ0Y2U2NzRmNTZhM2NmMzc4YzczMjQ4MDAwOQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6Z7jyWKlzevISZ1rS3BAQk/tracks",
+                "total": 25
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6Z7jyWKlzevISZ1rS3BAQk"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3xKjUSK3kTImFWdmMqvwEZ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3xKjUSK3kTImFWdmMqvwEZ",
+            "id": "3xKjUSK3kTImFWdmMqvwEZ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/69d44820fef1a33326efd408a6b12be30c9a818c7d23267b285f84fb8f432620f562f11a23bf1b81f00364bd5035e1652ca247526a618bdcfbad1b3df660d57b17d40f3267b1aef2a6bb8496ac091688",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/69d44820fef1a33326efd408a6b12be30c9a818c7d23267b285f84fb8f432620f562f11a23bf1b81f00364bd5035e1652ca247526a618bdcfbad1b3df660d57b17d40f3267b1aef2a6bb8496ac091688",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/69d44820fef1a33326efd408a6b12be30c9a818c7d23267b285f84fb8f432620f562f11a23bf1b81f00364bd5035e1652ca247526a618bdcfbad1b3df660d57b17d40f3267b1aef2a6bb8496ac091688",
+                    "width": 60
+                }
+            ],
+            "name": "kitty house ",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsOWVkYzc4MTRlMTIzYjJkMmE0YjVhNDFmZDBiZjc3NjdhYjU5YTE0NQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3xKjUSK3kTImFWdmMqvwEZ/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3xKjUSK3kTImFWdmMqvwEZ"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0COOR2eHWjRNHLCqrYUq08"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0COOR2eHWjRNHLCqrYUq08",
+            "id": "0COOR2eHWjRNHLCqrYUq08",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/5b5d4a505ef8c95f172df6417cf512aadf6153ca76aae141df54326f643c78446783c02de0b281e4e1fb8c1569045dd7a4bcad4e5f54a565875eb90ae365249ffdbb2792361ca4c56383461ff5f44aec",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/5b5d4a505ef8c95f172df6417cf512aadf6153ca76aae141df54326f643c78446783c02de0b281e4e1fb8c1569045dd7a4bcad4e5f54a565875eb90ae365249ffdbb2792361ca4c56383461ff5f44aec",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/5b5d4a505ef8c95f172df6417cf512aadf6153ca76aae141df54326f643c78446783c02de0b281e4e1fb8c1569045dd7a4bcad4e5f54a565875eb90ae365249ffdbb2792361ca4c56383461ff5f44aec",
+                    "width": 60
+                }
+            ],
+            "name": "My Shazam Tracks",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCwzN2JiMjZhNTRkYmU2MjRjYjkzYWQ0YmMyMmVhMzhhMjRjODlkNTdh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0COOR2eHWjRNHLCqrYUq08/tracks",
+                "total": 89
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0COOR2eHWjRNHLCqrYUq08"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0NGd6oopw0n38gfVmz2Pym"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0NGd6oopw0n38gfVmz2Pym",
+            "id": "0NGd6oopw0n38gfVmz2Pym",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/abc71e36033b2d87778d6199bf344943f180e9f0",
+                    "width": 640
+                }
+            ],
+            "name": "One By One – The Black Seeds",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Miw2MjY5OWE3YzExYTcxNjA1ODU5NDlkYmQyYzljYjlkNTgzNGQ2ZDEw",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0NGd6oopw0n38gfVmz2Pym/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0NGd6oopw0n38gfVmz2Pym"
+        },
+        {
+            "collaborative": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7125NHKXqgZBfQI4EtAG6i"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7125NHKXqgZBfQI4EtAG6i",
+            "id": "7125NHKXqgZBfQI4EtAG6i",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/18610fc5fc0703d4012e752c1a2682f6a4e0456a37dda12a80d3f680c94e804b93ce964e54b4cf075f414f2951af6bf3fe01f0fbe3bf42fe073b0f72abc9b6650961a8af2f331d280e983fecc66b5140",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/18610fc5fc0703d4012e752c1a2682f6a4e0456a37dda12a80d3f680c94e804b93ce964e54b4cf075f414f2951af6bf3fe01f0fbe3bf42fe073b0f72abc9b6650961a8af2f331d280e983fecc66b5140",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/18610fc5fc0703d4012e752c1a2682f6a4e0456a37dda12a80d3f680c94e804b93ce964e54b4cf075f414f2951af6bf3fe01f0fbe3bf42fe073b0f72abc9b6650961a8af2f331d280e983fecc66b5140",
+                    "width": 60
+                }
+            ],
+            "name": "Meowsik - Hippity Hop",
+            "owner": {
+                "display_name": "dbarilla32",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/dbarilla32"
+                },
+                "href": "https://api.spotify.com/v1/users/dbarilla32",
+                "id": "dbarilla32",
+                "type": "user",
+                "uri": "spotify:user:dbarilla32"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTIsOWQxMGNjYzMzNGQwODMyZWYwNmQyMDI4MzZiYzA5ZDRkODMzNjFiZg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7125NHKXqgZBfQI4EtAG6i/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7125NHKXqgZBfQI4EtAG6i"
+        },
+        {
+            "collaborative": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1Mz16eIUjJrwip4qmff7A2"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1Mz16eIUjJrwip4qmff7A2",
+            "id": "1Mz16eIUjJrwip4qmff7A2",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/d0dd02d86405fd54d28f2d6799d3c0a861c125c2",
+                    "width": 640
+                }
+            ],
+            "name": "Meowsik - House",
+            "owner": {
+                "display_name": "dbarilla32",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/dbarilla32"
+                },
+                "href": "https://api.spotify.com/v1/users/dbarilla32",
+                "id": "dbarilla32",
+                "type": "user",
+                "uri": "spotify:user:dbarilla32"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTEsNjcxNDg5NzhmNzQ2NDYxYzMyMDBlZTFiMTFiNDM3NzE3NzI5NmNhNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1Mz16eIUjJrwip4qmff7A2/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1Mz16eIUjJrwip4qmff7A2"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/468o1H5vNxIuHvFc57wioy"
+            },
+            "href": "https://api.spotify.com/v1/playlists/468o1H5vNxIuHvFc57wioy",
+            "id": "468o1H5vNxIuHvFc57wioy",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/488164a961e97da985b67070fd7facc7cc0b05647e0c70ec19bcfaf07ad9204ef4a2b425aa0dc99fd8e7e4818d20b5aee45013aad0170e9f9c79a735fbf08c435581f1f35da79413ec1f4eb88b8505aa",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/488164a961e97da985b67070fd7facc7cc0b05647e0c70ec19bcfaf07ad9204ef4a2b425aa0dc99fd8e7e4818d20b5aee45013aad0170e9f9c79a735fbf08c435581f1f35da79413ec1f4eb88b8505aa",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/488164a961e97da985b67070fd7facc7cc0b05647e0c70ec19bcfaf07ad9204ef4a2b425aa0dc99fd8e7e4818d20b5aee45013aad0170e9f9c79a735fbf08c435581f1f35da79413ec1f4eb88b8505aa",
+                    "width": 60
+                }
+            ],
+            "name": "deanzel",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NywwYjk5MTYxZTFkZWVjZjk2NDIzZmI3NDMzN2Q3ZjIzZjFkZDU3NjM2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/468o1H5vNxIuHvFc57wioy/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:468o1H5vNxIuHvFc57wioy"
+        },
+        {
+            "collaborative": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6BYSnUhXtse6xL5L5vrM3m"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6BYSnUhXtse6xL5L5vrM3m",
+            "id": "6BYSnUhXtse6xL5L5vrM3m",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/09dfd32fd66b5c2075e36f35d38bb460c2d396584bb862270fbef9bd21978d2c97f28b9375ea52198e9e5be6fe5faa0fa98f769c2b44f36d8e80135f94596719581f1da04006b8ddd25bbcd4f9d9c9d3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/09dfd32fd66b5c2075e36f35d38bb460c2d396584bb862270fbef9bd21978d2c97f28b9375ea52198e9e5be6fe5faa0fa98f769c2b44f36d8e80135f94596719581f1da04006b8ddd25bbcd4f9d9c9d3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/09dfd32fd66b5c2075e36f35d38bb460c2d396584bb862270fbef9bd21978d2c97f28b9375ea52198e9e5be6fe5faa0fa98f769c2b44f36d8e80135f94596719581f1da04006b8ddd25bbcd4f9d9c9d3",
+                    "width": 60
+                }
+            ],
+            "name": "meowsik-chillz",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MzQsNTk3OTBjYzZjNjc2NzRiMmNjNmY1ZmY2MDliNTFkNTQ3NDBiMjRkZg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6BYSnUhXtse6xL5L5vrM3m/tracks",
+                "total": 27
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6BYSnUhXtse6xL5L5vrM3m"
+        },
+        {
+            "collaborative": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3SFgwlUDt91qJsAbD063yI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3SFgwlUDt91qJsAbD063yI",
+            "id": "3SFgwlUDt91qJsAbD063yI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/1047a9b9885cc4e8c09a3cfec192a26da1efb27f8701a7084d3afcb70c16592b9900be548fa33c2b94596719581f1da04006b8ddd25bbcd4f9d9c9d3f09969af79c09379197a48fe0be5134c298374d3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/1047a9b9885cc4e8c09a3cfec192a26da1efb27f8701a7084d3afcb70c16592b9900be548fa33c2b94596719581f1da04006b8ddd25bbcd4f9d9c9d3f09969af79c09379197a48fe0be5134c298374d3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/1047a9b9885cc4e8c09a3cfec192a26da1efb27f8701a7084d3afcb70c16592b9900be548fa33c2b94596719581f1da04006b8ddd25bbcd4f9d9c9d3f09969af79c09379197a48fe0be5134c298374d3",
+                    "width": 60
+                }
+            ],
+            "name": "meowsik - partayz",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTUsNjMwNjc3OTlhMzY4OTJjNzI5MGY2MjNiOThkMGRlNDVmYzYxNjlkZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3SFgwlUDt91qJsAbD063yI/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3SFgwlUDt91qJsAbD063yI"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/24t8Djh1naPrkaPVGR6y4h"
+            },
+            "href": "https://api.spotify.com/v1/playlists/24t8Djh1naPrkaPVGR6y4h",
+            "id": "24t8Djh1naPrkaPVGR6y4h",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/25d63b44cee512c0eeb247f115beeccdcf5e4aa59ae2c9c252f0aa7dd81b16dc3f51316df1858428d08d92a0c2b2ee8b31901ce6e0e7f52c50a20451daf5126e71f65191824e2aa7fbd37ec124f70974",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/25d63b44cee512c0eeb247f115beeccdcf5e4aa59ae2c9c252f0aa7dd81b16dc3f51316df1858428d08d92a0c2b2ee8b31901ce6e0e7f52c50a20451daf5126e71f65191824e2aa7fbd37ec124f70974",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/25d63b44cee512c0eeb247f115beeccdcf5e4aa59ae2c9c252f0aa7dd81b16dc3f51316df1858428d08d92a0c2b2ee8b31901ce6e0e7f52c50a20451daf5126e71f65191824e2aa7fbd37ec124f70974",
+                    "width": 60
+                }
+            ],
+            "name": "skazpunkz",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjQsYjFkZTZjYTBlZjIxNWY2ZDI2OGIzNGJjYzE1MzA5ZjRkNmNjZDFiYw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/24t8Djh1naPrkaPVGR6y4h/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:24t8Djh1naPrkaPVGR6y4h"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7yxdjiuLD0xX8xQ6T1B5id"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7yxdjiuLD0xX8xQ6T1B5id",
+            "id": "7yxdjiuLD0xX8xQ6T1B5id",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/14d09ec9bb94a21094013dd5848f1b942e94163453a420485446f47b78878eb79f410fb39477cdd8a20c6d952eea599695580746c1c691eeb34b1f2da5c54c7f1afbbee665a5a823594716a0e9bfe5ea",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/14d09ec9bb94a21094013dd5848f1b942e94163453a420485446f47b78878eb79f410fb39477cdd8a20c6d952eea599695580746c1c691eeb34b1f2da5c54c7f1afbbee665a5a823594716a0e9bfe5ea",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/14d09ec9bb94a21094013dd5848f1b942e94163453a420485446f47b78878eb79f410fb39477cdd8a20c6d952eea599695580746c1c691eeb34b1f2da5c54c7f1afbbee665a5a823594716a0e9bfe5ea",
+                    "width": 60
+                }
+            ],
+            "name": "Paris Is For Lovers (My Love) feat. Tomas Høffding – Terranova",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsMzk1Y2IyODAyMDQ4ZTlhY2FkMTE5Mzg0YTEwYmQ5YzM5NjhhNjhjYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7yxdjiuLD0xX8xQ6T1B5id/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7yxdjiuLD0xX8xQ6T1B5id"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/17hinObEcN3ZNlPddpLL41"
+            },
+            "href": "https://api.spotify.com/v1/playlists/17hinObEcN3ZNlPddpLL41",
+            "id": "17hinObEcN3ZNlPddpLL41",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/7cf6e7ff72dde42db2198ef8aedac831320b2c2eac1feb127f73941b51600ee098a17f21b7fe578eb0ab864759da69cde73b3cfd6f3ac49c4e70795cc21c1e4c58342abb6f88dfe1b291c718f6a70e43",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/7cf6e7ff72dde42db2198ef8aedac831320b2c2eac1feb127f73941b51600ee098a17f21b7fe578eb0ab864759da69cde73b3cfd6f3ac49c4e70795cc21c1e4c58342abb6f88dfe1b291c718f6a70e43",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/7cf6e7ff72dde42db2198ef8aedac831320b2c2eac1feb127f73941b51600ee098a17f21b7fe578eb0ab864759da69cde73b3cfd6f3ac49c4e70795cc21c1e4c58342abb6f88dfe1b291c718f6a70e43",
+                    "width": 60
+                }
+            ],
+            "name": "K-mellow",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSwwYWRiMGNiYmE0MzVhY2IxMzVmZWU4NzIwZmY5NDI4Y2JlMWU3ZTI5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/17hinObEcN3ZNlPddpLL41/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:17hinObEcN3ZNlPddpLL41"
+        },
+        {
+            "collaborative": true,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4sCHX0dYIhBq1se62iRgOT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4sCHX0dYIhBq1se62iRgOT",
+            "id": "4sCHX0dYIhBq1se62iRgOT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/2ac2a617d0666d876db314416bbfea2ed63584c6cf5f0818b5d20fae90a555ece8a15ae69cc5d055d3e16baa93a3fff64bd6a019eef82916fe0ea5c7f2566a2f898edc16a23986767db09bed318f25b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/2ac2a617d0666d876db314416bbfea2ed63584c6cf5f0818b5d20fae90a555ece8a15ae69cc5d055d3e16baa93a3fff64bd6a019eef82916fe0ea5c7f2566a2f898edc16a23986767db09bed318f25b1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/2ac2a617d0666d876db314416bbfea2ed63584c6cf5f0818b5d20fae90a555ece8a15ae69cc5d055d3e16baa93a3fff64bd6a019eef82916fe0ea5c7f2566a2f898edc16a23986767db09bed318f25b1",
+                    "width": 60
+                }
+            ],
+            "name": "souldancepop",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": false,
+            "snapshot_id": "MTcsMjIzN2M0MmI1ZTA1MjUzYzlhZTdlODUxMGUxN2Q5ZDdlODA1Y2VkNw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4sCHX0dYIhBq1se62iRgOT/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4sCHX0dYIhBq1se62iRgOT"
+        },
+        {
+            "collaborative": false,
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1zJXnsrgwoUlFx4LVMcwlG"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1zJXnsrgwoUlFx4LVMcwlG",
+            "id": "1zJXnsrgwoUlFx4LVMcwlG",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/0b17b0b4c2774f64e84d5101d8c1410ab8c2ab678f4d43624bfe7d71fa48e5ed954b35a9cd276122d12ca8d86060b57f70da027d605a7fe3a10bd6f8f3de88e6c3d49ee273d7d7ab85d085ee790e723f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/0b17b0b4c2774f64e84d5101d8c1410ab8c2ab678f4d43624bfe7d71fa48e5ed954b35a9cd276122d12ca8d86060b57f70da027d605a7fe3a10bd6f8f3de88e6c3d49ee273d7d7ab85d085ee790e723f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/0b17b0b4c2774f64e84d5101d8c1410ab8c2ab678f4d43624bfe7d71fa48e5ed954b35a9cd276122d12ca8d86060b57f70da027d605a7fe3a10bd6f8f3de88e6c3d49ee273d7d7ab85d085ee790e723f",
+                    "width": 60
+                }
+            ],
+            "name": "Babez iTunes",
+            "owner": {
+                "display_name": "hu3man",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/hu3man"
+                },
+                "href": "https://api.spotify.com/v1/users/hu3man",
+                "id": "hu3man",
+                "type": "user",
+                "uri": "spotify:user:hu3man"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OTEsZGRmOTZlNDc5NTcwYTFiNDMyYTExYTAzMjcwZjEwZjE3YWVhOTYwZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1zJXnsrgwoUlFx4LVMcwlG/tracks",
+                "total": 84
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1zJXnsrgwoUlFx4LVMcwlG"
+        }
+    ],
+    "limit": 20,
+    "next": "https://api.spotify.com/v1/users/hu3man/playlists?offset=20&limit=20",
+    "offset": 0,
+    "previous": null,
+    "total": 49
+}

@@ -1,0 +1,7 @@
+<aura:component>
+    <aura:attribute name="playlist" type="Playlist__c"/>
+    <lightning:card title="{!v.playlist.Name}" iconName="utility:connected_apps">
+        <p class="slds-text-heading--medium slds-p-horizontal--small">{!v.playlist.Name}</p>
+        <p class="slds-p-horizantal slds-p-horizontal--small">Tracks: <lightning:formattedNumber value="{!v.playlist.numTracks__c}"/></p>
+    </lightning:card> 
+</aura:component>

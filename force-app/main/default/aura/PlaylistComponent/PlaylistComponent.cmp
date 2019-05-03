@@ -1,0 +1,14 @@
+<aura:component controller="PlaylistsController" implements="flexipage:availableForAllPageTypes" access="global">
+        <aura:handler name="init" action="{!c.doInit}" value="{!this}"/>
+        <aura:attribute name="playlists" type="String[]" access="public"/>
+        <aura:attribute name="dataIsLoaded" type="boolean" />
+
+        <c:PlaylistsHeader />
+        <aura:if isTrue="{!v.dataIsLoaded}">
+            <c:PlayListPicker playlistNames="{!v.playlists}" />
+            <aura:set attribute="else">
+                <p>Loading Data</p>
+            </aura:set>
+        </aura:if>
+        
+</aura:component>

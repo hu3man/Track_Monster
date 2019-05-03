@@ -1,0 +1,8 @@
+<aura:component>
+    <aura:attribute name="playlistNames" type="String[]" access="public"/>
+    <lightning:select aura:id="select" name="select" label="Select a playlist">
+        <aura:iteration items="{!v.playlistNames}" var="pName">
+            <option value="{!pName}">{!pName}</option>
+        </aura:iteration>
+    </lightning:select>
+</aura:component>
